@@ -58,3 +58,43 @@ Functionality outlines the interactive components of the interface — such as b
 Example: A search form that filters available rooms based on date and location enhances user efficiency and experience.
 
 *Created as part of the ALX “Figmify: From Wireframe to Prototype” project.*
+
+## Types of Wireframes
+
+Wireframes can be divided into two main categories based on their level of detail and purpose in the design process: Low-Fidelity and High-Fidelity wireframes.
+
+Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple sketches or outlines that focus on the basic structure and layout of a page or screen. They are typically created during the early stages of design to explore different ideas quickly without spending much time on visuals.
+
+Characteristics:
+
+Usually black and white or grayscale
+
+Created using simple shapes and placeholders
+
+Focuses on layout and content hierarchy, not visual design
+
+Easy to modify and ideal for brainstorming
+
+When to Use:
+During the initial planning or conceptualization phase, to communicate early ideas and gather feedback before refining details.
+
+High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and polished representations that closely resemble the final product. They include colors, images, typography, and spacing, providing a clearer picture of the final design.
+
+Characteristics:
+
+Includes accurate spacing, fonts, and UI elements
+
+Shows actual content and interactive features
+
+Used for usability testing and stakeholder presentations
+
+When to Use:
+During the later stages of design, once the layout and structure have been finalized, to prepare for prototyping and development.
+
+Type of Wireframe Shown Here
+
+The wireframe shown here is a Low-Fidelity Wireframe because it emphasizes the layout structure and content placement without focusing on colors, images, or stylistic elements. It serves as an early visual guide to outline the main components and navigation flow.
