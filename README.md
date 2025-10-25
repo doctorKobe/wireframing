@@ -98,3 +98,38 @@ During the later stages of design, once the layout and structure have been final
 Type of Wireframe Shown Here
 
 The wireframe shown here is a Low-Fidelity Wireframe because it emphasizes the layout structure and content placement without focusing on colors, images, or stylistic elements. It serves as an early visual guide to outline the main components and navigation flow.
+
+🧰 Wireframing Tools
+
+Wireframing tools are essential for creating visual layouts that define the structure and functionality of a digital product before development begins. These tools help designers and developers collaborate efficiently, test ideas quickly, and refine user experiences.
+
+Popular Wireframing Tools
+
+Figma – A cloud-based design tool that supports real-time collaboration, vector editing, and interactive prototyping.
+
+Adobe XD – Provides wireframing, prototyping, and UI design features in one platform.
+
+Sketch – A macOS-based design tool known for its simplicity and integration with various plugins.
+
+Balsamiq – A tool for creating low-fidelity wireframes with a sketch-like appearance, perfect for brainstorming and early planning.
+
+InVision – Useful for prototyping and gathering design feedback with interactive mockups.
+
+Why Figma is Recommended
+
+Figma stands out as a powerful and collaborative wireframing tool that’s widely used by both designers and developers.
+
+Key Features:
+
+Cloud-Based Collaboration: Multiple team members can work on the same design simultaneously.
+
+Ease of Use: Intuitive interface that supports drag-and-drop elements for quick wireframe creation.
+
+Prototyping Capabilities: Allows the creation of interactive prototypes without leaving the platform.
+
+Version Control: Automatically saves design history and supports real-time updates.
+
+Cross-Platform Support: Works directly in the browser or via desktop apps on any operating system.
+
+Why It’s Useful for Wireframing:
+Figma enables fast, collaborative, and accessible wireframing—making it easy to turn abstract concepts into interactive visual representations. It bridges the gap between designers, developers, and stakeholders, ensuring everyone stays aligned from concept to prototype.
