@@ -167,3 +167,42 @@ Where filters will appear,
 The flow from selecting a room to making a payment.
 
 Developers use this as a visual reference to build the front-end structure and ensure alignment with design expectations.
+
+🧩 Wireframing in Practice
+
+Wireframing has proven to be one of the most effective steps in identifying usability issues before the development phase. By visually mapping out a product’s structure, designers and developers can spot problems early and refine the user experience before writing any code.
+
+🧠 Real-World Example
+
+During the design of an online booking platform, the team created a low-fidelity wireframe to visualize the user flow — from searching for available rooms to completing payment.
+
+While reviewing the wireframe, they noticed:
+
+The “Checkout” button was placed too far down the page, making it easy for users to miss.
+
+The navigation between “Select Room” and “Payment Options” was confusing, leading to potential drop-offs.
+
+By identifying these issues at the wireframe stage, the team quickly:
+
+Moved the checkout button to a more visible position.
+
+Simplified the navigation with a progress bar showing steps like Search → Select → Checkout → Confirmation.
+
+These adjustments dramatically improved the user journey and reduced friction points before the product moved to development.
+
+🚀 Impact on the Final Product
+
+After implementing the feedback:
+
+The conversion rate increased due to a smoother checkout flow.
+
+User satisfaction improved because the layout felt intuitive and easy to follow.
+
+Development time was reduced, as fewer design changes were needed later in the process.
+
+✨ Conclusion
+
+Wireframing allowed the team to detect and fix usability issues early, saving time and resources.
+It reinforced the importance of planning and testing design ideas visually before committing to code.
+
+Ultimately, wireframing serves as a bridge between creativity and functionality, ensuring that the final product is both user-friendly and aligned with project goals.
